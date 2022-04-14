@@ -4,6 +4,10 @@
 
 [TOC]
 
+## QR code
+
+`QR code` (abbreviated from **Quick Response Code**) is the trademark for a type of matrix barcode(条形码) (or two-dimensional barcode) first designed for the automotive industry in Japan. A barcode is a machine-readable optical label that contains information about the item to which it is attached. A QR code uses four standardized encoding modes (numeric, alphanumeric, byte / binary, and kanji) to efficiently store data; extensions may also be used.The QR Code system has become popular outside the automotive industry due to its fast readability and greater storage capacity compared to standard UPC barcodes. Applications include product tracking, item identification, time tracking, document management, general marketing, and much more. A QR code consists of black modules (square dots) arranged in a square grid on a white background, which can be read by an imaging device (such as a camera) and processed using Reed–Solomon error correction until the image can be appropriately interpreted. The required data are then extracted from patterns present in both horizontal and vertical components of the image.
+
 ## [熵增定律](https://zhuanlan.zhihu.com/p/72896309)
 
 人活着就是在对抗熵增定律，生命以负熵为生。——薛定谔
@@ -54,4 +58,5 @@
 ## 不用一个雪字，描述大雪纷飞
 
 袁华，你不要再打电话过来了，我怕夏洛误会。
+
 
